@@ -3,6 +3,6 @@ const driver={
   lunch: "Pizza",
   Dinner: "chicken"
 }
-function updateDriverWithKeyAndValue(driver, x, y){
-
+function updateDriverWithKeyAndValue(){
+  driver.snack = "Chips"
 }
