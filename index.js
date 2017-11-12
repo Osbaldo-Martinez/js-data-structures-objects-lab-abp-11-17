@@ -1,7 +1,5 @@
 const driver={
-  breakfast: "Eggs",
-  lunch: "Pizza",
-  Dinner: "chicken"
+ name: 'Sam'
 }
 function updateDriverWithKeyAndValue(){
   driver.snack = "Chips"
