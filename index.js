@@ -5,4 +5,5 @@ const driver={
 }
 function updateDriverWithKeyAndValue(){
   driver.snack = "Chips"
+  return driver;
 }
